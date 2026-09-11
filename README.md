@@ -10,4 +10,4 @@
 - **Tenure Risk Window:** New customers with **tenure < 12 months** are at the highest risk of leaving; retention stabilizes noticeably as tenure increases.
 - **High-Risk Segments:** Users subscribed to **Fiber Optic internet** and those paying via **Electronic Check** show the highest rates of churn.
 - **Service Add-ons:** Customers who lack support add-ons, such as **Online Security** or **Tech Support**, churn at a higher rate than those with active security services.
-### Setup Open the Kaggle notebook or run locally: pip install pandas numpy matplotlib seaborn
+
