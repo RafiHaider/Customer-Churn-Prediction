@@ -19,6 +19,7 @@
 - Engineered features: n_services, is_new, charge_per_mo, price_jump; effect on AUC: 0.8422 -> 0.8420
 - Biggest lesson: Tree-based ensemble models naturally capture non-linear feature interactions without manual feature engineering, making cost-sensitive threshold optimization on well-calibrated probabilities the most effective leverage point for improving business value.
 
+# Week 3
 # 🏅 Executive Summary & Final Lab Report
 ---
 
