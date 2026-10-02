@@ -64,4 +64,4 @@
 
 This project demonstrates that predictive analytics reaches maximum efficacy when **high-capacity ensemble classifiers** are coupled with **unsupervised behavioral profiling**. While hyperparameter tuning optimized decision boundary precision (+0.005 AUC gain), PCA and K-Means provided the structural domain insights necessary to turn raw churn predictions into targeted revenue preservation strategies.
 
-> **Model Artifact Status:** Saved & Serialized as `churn_model.joblib`
+
